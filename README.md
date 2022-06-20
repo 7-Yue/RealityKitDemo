@@ -2,6 +2,7 @@
 
 Issue:
 Currently, if i want to use RealityKit's api in ios 14 mobile device, i must set iOS deployment target to 13.0 . 
+This demo currently crashes on ios14 devices.
 
 Expectation:
 Because my app still have some lower ios version users. 
